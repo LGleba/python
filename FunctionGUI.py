@@ -1,11 +1,13 @@
 # 2020
 # FunctionGUI
 # Powered by LGleba
+
 import numpy as np
 from tkinter import *
 from tkinter import ttk
 from matplotlib import pyplot as plt
 from math import *
+
 # Main
 fl = 0
 tree = 0
