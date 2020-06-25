@@ -1,3 +1,7 @@
+# 2020
+# Download image
+# Designed and powered by LGleba
+
 import requests
 
 
