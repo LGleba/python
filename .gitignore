@@ -1,0 +1,7 @@
+**/__pycache__/
+*.exe
+*.o
+*.out
+*.pyc
+*venv
+*.DS_Store
